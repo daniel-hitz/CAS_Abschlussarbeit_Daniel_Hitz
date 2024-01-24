@@ -62,6 +62,8 @@ Eine übersichtlichere Darstellung als auf der Webseite mit allen Vorstössen de
 - 3. Januar: Mit Kollegen über Sinn des Projekts gesprochen
 - 4. Januar: Letzter Tag am MAZ - Daten geordnet
 - ...
+- 24. Januar: Alles ins Github transferiert (2h)
+- ...
 
 ## 7. Endprodukt
 Die Geschichte wurde bereits publiziert. Sie ist über folgenden Link zu finden: www.zsz.ch
