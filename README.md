@@ -1,5 +1,5 @@
 # Wer dominiert in den Stadtparlamenten von Wädenswil und Adliswil?
-Analyse von über 700 Vorstössen aus den Stadtparlamenten 1. Januar 2006 und dem 31. Dezember 2023.
+Analyse von über 700 Vorstössen aus den Stadtparlamenten zwischen dem 1. Januar 2006 und dem 31. Dezember 2023.
 
 ## 1. Ausgangsthesen
 Die lokalen Parlamente bestimmen zu weiten Teilen, was vor den Haustüren der Leserinnen und Leser vor sich geht. Im Einzugsgebiet der Zürichsee-Zeitung liegen die Stadtparlamente Wädenswil und Adliswil. über diese beiden kommunalen Legislativen weiss man eigentlich nur sehr wenig. Die Berichterstattung beschränkt sich auf aktuelle Debatten und Entscheide. Eine längerfriste Analyse über mehrere Legislaturen eines Stadtparlaments hinweg sowie einen Vergleich der beiden Parlamente gibt es noch nicht. Es ist an der Zeit, diese Lücke zu schliessen und die beiden Parlamente und vor allem deren Mitglieder genauer anzuschauen. Es stellen sich mir folgende 5 Fragen und die entsprechenden Thesen.
