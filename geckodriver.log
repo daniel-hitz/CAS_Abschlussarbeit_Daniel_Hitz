@@ -1,0 +1,47 @@
+1706132883230	geckodriver	INFO	Listening on 127.0.0.1:55188
+1706132884250	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0_/g6gf3kvd4wd5y2c_ls8l_k280000gn/T/rust_mozprofileVeMhDy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706132884564	Marionette	INFO	Marionette enabled
+1706132884652	Marionette	INFO	Listening on port 55197
+Read port: 55197
+1706132884723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1706132914650	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1706138940146	Marionette	INFO	Stopped listening on port 55197
+1706392878600	geckodriver	INFO	Listening on 127.0.0.1:49593
+1706392879609	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0_/g6gf3kvd4wd5y2c_ls8l_k280000gn/T/rust_mozprofileLaTIUR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706392880030	Marionette	INFO	Marionette enabled
+1706392880135	Marionette	INFO	Listening on port 49602
+Read port: 49602
+1706392880300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1706392910594	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3741: TypeError: this._windows[aWindow.__SSi] is undefined
+1706392930072	geckodriver	INFO	Listening on 127.0.0.1:49644
+1706392931087	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0_/g6gf3kvd4wd5y2c_ls8l_k280000gn/T/rust_mozprofile7ZTs9L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706392931374	Marionette	INFO	Marionette enabled
+1706392931467	Marionette	INFO	Listening on port 49653
+Read port: 49653
+1706392931621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1706392936428	Marionette	INFO	Stopped listening on port 49602
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3741: TypeError: this._windows[aWindow.__SSi] is undefined
+1706392954534	Marionette	INFO	Stopped listening on port 49653
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1706392956206	geckodriver	INFO	Listening on 127.0.0.1:49691
+1706392957222	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0_/g6gf3kvd4wd5y2c_ls8l_k280000gn/T/rust_mozprofileXum148"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706392957496	Marionette	INFO	Marionette enabled
+1706392957592	Marionette	INFO	Listening on port 49700
+Read port: 49700
+1706392957695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1706392987532	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1706395200965	Marionette	INFO	Stopped listening on port 49700
