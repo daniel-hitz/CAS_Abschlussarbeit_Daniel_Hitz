@@ -4,19 +4,19 @@ Analyse von über 700 Vorstössen aus den beiden Stadtparlamenten zwischen dem 1
 ## 1. Ausgangsthesen
 Die lokalen Parlamente bestimmen zu weiten Teilen, was vor den Haustüren der Leserinnen und Leser vor sich geht. Im Einzugsgebiet der Zürichsee-Zeitung liegen die Stadtparlamente Wädenswil und Adliswil. über diese beiden kommunalen Legislativen weiss man eigentlich nur sehr wenig. Die Berichterstattung beschränkt sich auf aktuelle Debatten und Entscheide. Eine längerfriste Analyse über mehrere Legislaturen eines Stadtparlaments hinweg sowie einen Vergleich der beiden Parlamente gibt es noch nicht. Es ist an der Zeit, diese Lücke zu schliessen und die beiden Parlamente und vor allem deren Mitglieder genauer anzuschauen. Ich habe dafür nicht nur eine These, sondern mehrere. Es wäre gut möglich, diese in Form eines Listicles zu beantworten. So kann ich auch eine Geschichte machen, wenn sich eine der Thesen als falsch herausstellen würde. Ich möchte daher folgende 5 Fragen und die entsprechenden Thesen überprüfen:
 
-**1. Welche Parteien reichen am häufigsten Vorstösse ein?** (SO)
-These: In Wädenswil sind es die rechten, in Adliswil die linken Parteien. Folgefrage: Entspricht die Anzahl Vorstösse auch der Fraktionsgrösse und den Wähleranteilen?
+**1. Welche Parteien reichen am häufigsten Vorstösse ein?**
+These: In Wädenswil sind es die rechten, in Adliswil die linken Parteien. Folgefrage: Entspricht die Anzahl Vorstösse auch den Wähleranteilen?
 
-**2. Welches sind die erfolgerichsten Fraktionen und wessen Vorstösse werden am meisten abgelehnt?** (MO)
+**2. Welches sind die erfolgerichsten Parteien und wessen Vorstösse werden am meisten abgelehnt?**
 These: In Adliswil scheitert die SVP und in Wädenswil die SP am meisten.
 
-**3. Welches waren die fleissigsten Parlamentarier/innen?** (SO) / (MO)
+**3. Welches waren die fleissigsten Parlamentarier/innen?**
 These: Es gibt einzelne Politiker*innen, die besonders viele Vorstösse eingereicht haben, andere gar keine. Folgefrage: Haben die "fleissigen" auch Erfolg mit ihren Vorstössen oder beschäftigen sie nur die Behörden?
 
-**4. Wie viele Vorstösse stammen von Männern und wie viele von Frauen?** (DI)
+**4. Wie viele Vorstösse stammen von Männern und wie viele von Frauen?**
 These: Die Männer dominieren. Folgefragen: Bei welchen Fraktionen drängen sich die Männer in den Vordergrund?
 
-**5. Wie sieht ein Vergleich der Stadtparlamente von Wädenswil und Adliswil aus?** (DI)
+**5. Wie sieht ein Vergleich der Stadtparlamente von Wädenswil und Adliswil aus?**
 These: In Wädenswil werden viel mehr Vorstösse eingereicht als in Adliswil. Bei beiden Parlamenten hat die Anzahl der Vorstösse in den letzten Jahren zugenommen.
 
 
@@ -65,18 +65,18 @@ Eine übersichtlichere Darstellung als auf der Webseite mit allen Vorstössen de
 - 16. Januar: Daten kritisch hinterfragt - Grundsätzlich sind die Daten korrekt. Es gibt aber in Wädenswil ein paar Fehler (Zwei falsche Namen, einmal eine falsche Fraktion). Das muss ich beheben.
 - 24. Januar: Repository erstellt und alles ins Github transferiert (2h)
 - 25. Janaur: Readme geschrieben (2h)
-- 28. Januar: csv-File mit Parlamentariern bereinigt und eingelesen. Dataframes für Auswertung vorbereitet. (5h)
-- 29. Januar: Auswertungen zu Anzahl Vorstösse nach Partei gemacht und 
+- 28. Januar: csv-File mit Parlamentariern bereinigt und eingelesen. Dataframes für Auswertung vorbereitet und ausgewertet, welche Partei wie viele Vorstösse eingereicht hat. (6h)
+- 29. Januar: 
 
 
 **Todo:**
-Auswertungen und Grafiken Adliswil
-Auswertungen und Grafiken Wädenswil
-Daten bereinigen Adliswil
-Daten bereinigen Wädenswil
-Interviews führen
-Geschichte schreiben
-Dokumentation finalisieren
+Auswertungen und Grafiken Adliswil (bis Di)
+Auswertungen und Grafiken Wädenswil (bis Sa)
+Daten bereinigen Adliswil (bis Di)
+Daten bereinigen Wädenswil (bis So)
+Interviews führen (bis Mi)
+Geschichte schreiben (bis Fr)
+Dokumentation finalisieren (bis Sa i1W)
 
 **Aufwand in Stunden:**
 Thema suchen: Alles in allem ein paar Tage
