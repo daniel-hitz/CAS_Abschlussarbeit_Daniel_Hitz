@@ -14,7 +14,7 @@ These: In Adliswil scheitert die SVP und in Wädenswil die SP am meisten.
 These: Es gibt einzelne Politiker*innen, die besonders viele Vorstösse eingereicht haben, andere gar keine. Folgefrage: Haben die "fleissigen" auch Erfolg mit ihren Vorstössen oder beschäftigen sie nur die Behörden?
 
 **4. Wie viele Vorstösse stammen von Männern und wie viele von Frauen?**
-These: Die Männer dominieren. Folgefragen: Bei welchen Fraktionen drängen sich die Männer in den Vordergrund?
+These: Die Männer dominieren. Folgefragen: Bei welchen Parteien drängen sich die Männer in den Vordergrund?
 
 **5. Wie sieht ein Vergleich der Stadtparlamente von Wädenswil und Adliswil aus?**
 These: In Wädenswil werden viel mehr Vorstösse eingereicht als in Adliswil. Bei beiden Parlamenten hat die Anzahl der Vorstösse in den letzten Jahren zugenommen.
@@ -66,7 +66,8 @@ Eine übersichtlichere Darstellung als auf der Webseite mit allen Vorstössen de
 - 24. Januar: Repository erstellt und alles ins Github transferiert (2h)
 - 25. Janaur: Readme geschrieben (2h)
 - 28. Januar: csv-File mit Parlamentariern bereinigt und eingelesen. Dataframes für Auswertung vorbereitet und ausgewertet, welche Partei wie viele Vorstösse eingereicht hat. (6h)
-- 29. Januar: 
+- 29. Januar: Weitere Auswertungen zu Parteien gemacht, Parteistärke berechnet, Geschlechterquote ausgewertet und diverse Grafiken erstellt. (5h)
+- 30. Januar: 
 
 
 **Todo:**
@@ -74,16 +75,17 @@ Auswertungen und Grafiken Adliswil (bis Di)
 Auswertungen und Grafiken Wädenswil (bis Sa)
 Daten bereinigen Adliswil (bis Di)
 Daten bereinigen Wädenswil (bis So)
-Interviews führen (bis Mi)
-Geschichte schreiben (bis Fr)
+Interviews führen (bis Mi i1W)
+Geschichte schreiben (bis Fr i1W)
 Dokumentation finalisieren (bis Sa i1W)
 
 **Aufwand in Stunden:**
 Thema suchen: Alles in allem ein paar Tage
 Code und Programmieren:
-Dokumentation:
+Dokumentation inkl. Github Repository:
 Grafiken erstellen:
 Interviews:
+Geschichte schreiben:
 
 
 ## 7. Endprodukt
