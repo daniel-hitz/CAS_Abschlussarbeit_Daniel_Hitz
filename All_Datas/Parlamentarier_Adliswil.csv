@@ -1,113 +1,113 @@
-Name,Partei,ID-Politiker
-Acar Sait,SP,1
-Aebli Daniel,SVP,2
-Andrea Blümli,Die Mitte,3
-Andrea Näf,Die Mitte,4
-Angelika Sulser,SP,5
-Anke Würl,Die Mitte,6
-Ann-Kathrin Biagioli ,GLP,7
-Baldegger Harry,FW,8
-Barbara Häberli,SP,9
-Barmettler Peter,FDP,10
-Bräuer Rudolf,FW,11
-Brigitte Abstreiter-Knecht,Die Mitte,12
-Broggini Angela,Grüne,13
-Buchmann Reto,FDP,14
-Buchmann-Bach Vera,FDP,15
-Bürgi Markus,FDP,16
-Caduff Stefan,FW,17
-Christoph Gubser,FDP,18
-Christoph Schwager,Die Mitte,19
-Clesle Hanspeter,EVP,20
-Corrodi Bernie,FW,21
-Daniel Jud,SP,22
-Daniela Morf,SVP,23
-Daniella Glur-Diminutto,Grüne,24
-Davide Loss,SP,25
-Eggenberger Daniela,SVP,26
-Egli Raphael,Die Mitte,27
-Engel Pascal,EVP,28
-Erwin Lauper,SVP,29
-Etemi Xhelajdin,SP,30
-Fässler Thomas,Die Mitte,31
-Favre Pierre,Die Mitte,32
-Fredi Morf,SVP,33
-Frei Daniel,FW,34
-Frei Kurt,SP,35
-Gabriella Barco Greiner,SP,36
-Gall Rudolf,Die Mitte,37
-Geissler Heinz,FDP,38
-Günthardt Renato,SVP,39
-Hans Rudolf Stieger,SP,40
-Hedwig Habersaat,SVP,41
-Heidi Jucker,SVP,42
-Helbling Silvia,FDP,43
-Hesse Jochen,SP,44
-Huber Harald,FDP,45
-Huber Sebastian,SVP,46
-Huber Urs,SVP,47
-Iseli Thomas,FDP,48
-Jacoma Martial,Die Mitte,49
-Jacomet Renato,SVP,50
-Kälin Florian,Die Mitte,51
-Kappeler Nicole,Die Mitte,52
-Karin Hug-Danecker,EVP,53
-Katharina Willimann,SP,54
-Keith Wyss,SVP,55
-Koller Marin,SVP,56
-Kuhn Markus,Grüne,57
-Künzler Urs,SVP,58
-Leu Patrick,Die Mitte,59
-Liedtke Wolfgang,SP,60
-Luck Andreas,SVP,61
-Mäder Gabriel,GLP,62
-Marietta Werder,FDP,63
-Mario F. Salomon,SVP,64
-Marion Hans,FW,65
-Martin Rüttimann,Die Mitte,66
-Marty Fässler Carmen,SP,67
-Meier Karl,SP,68
-Meier Theo,EVP,69
-Melliger Heinz,FW,70
-Muthuthamby Kannathasan,SP,71
-Neukom Roger,FDP,72
-Nyffeler Hans-Peter,SVP,73
-Oswald Marianne,Grüne,74
-Patrick Sager,FDP,75
-Peter Bühler,SP,76
-Peter Werder,FDP,77
-Renata Vasella Billeter,SP,78
-Riesen Bernd,SVP,79
-Riesen Gabriel,SVP,80
-Rindlisbacher Hans,SVP,81
-Rita Schmid Göldi,SP,82
-Rossi Franco,SVP,83
-Röthlisberger Ulrich,SVP,84
-Ruckstuhl Clemens,Die Mitte,85
-Schanz Simon,Die Mitte,86
-Schneider Daniel,Grüne,87
-Schoch Jacqueline,Grüne,88
-Schütz Kurt,EVP,89
-Schweizer Rolf,FDP,90
-Senn Mario,FDP,91
-Simon Jacoby,SP,92
-Simon Markus,FW,93
-Simon Pfenninger,Die Mitte,94
-Simone Huber,FDP,95
-Stefan Neubert,GLP,96
-Stenz Max,FW,97
-Stutz Patrick,SVP,98
-Susy Senn-Fleischmann,FDP,99
-Sütterlin Christoph,Die Mitte,100
-Titus Christian,SVP,101
-Ueli Gräflein,Grüne,102
-Ursula Rütimann,SP,103
-Wälle Robert,FDP,104
-Walter Uebersax,Die Mitte,105
-Weber Martin,SVP,106
-Welti Pascal,Grüne,107
-Weyermann Urs,SVP,108
-Winter Stefan,FW,109
-Yannick Wettstein,FDP,110
-Yilmaz Esen,SP,111
-Zeroual Farid,Die Mitte,112
+Name,Partei,ID-Politiker,Geschlecht
+Acar Sait,SP,1,m
+Aebli Daniel,SVP,2,m
+Andrea Blümli,Die Mitte,3,w
+Andrea Näf,Die Mitte,4,w
+Angelika Sulser,SP,5,w
+Anke Würl,Die Mitte,6,w
+Ann-Kathrin Biagioli ,GLP,7,w
+Baldegger Harry,FW,8,m
+Barbara Häberli,SP,9,w
+Barmettler Peter,FDP,10,m
+Bräuer Rudolf,FW,11,m
+Brigitte Abstreiter-Knecht,Die Mitte,12,w
+Broggini Angela,Grüne,13,w
+Buchmann Reto,FDP,14,m
+Buchmann-Bach Vera,FDP,15,w
+Bürgi Markus,FDP,16,m
+Caduff Stefan,FW,17,m
+Christoph Gubser,FDP,18,m
+Christoph Schwager,Die Mitte,19,m
+Clesle Hanspeter,EVP,20,m
+Corrodi Bernie,FW,21,m
+Daniel Jud,SP,22,m
+Daniela Morf,SVP,23,w
+Daniella Glur-Diminutto,Grüne,24,w
+Davide Loss,SP,25,m
+Eggenberger Daniela,SVP,26,w
+Egli Raphael,Die Mitte,27,m
+Engel Pascal,EVP,28,m
+Erwin Lauper,SVP,29,m
+Etemi Xhelajdin,SP,30,m
+Fässler Thomas,Die Mitte,31,m
+Favre Pierre,Die Mitte,32,m
+Fredi Morf,SVP,33,m
+Frei Daniel,FW,34,m
+Frei Kurt,SP,35,m
+Gabriella Barco Greiner,SP,36,w
+Gall Rudolf,Die Mitte,37,m
+Geissler Heinz,FDP,38,m
+Günthardt Renato,SVP,39,m
+Hans Rudolf Stieger,SP,40,m
+Hedwig Habersaat,SVP,41,w
+Heidi Jucker,SVP,42,w
+Helbling Silvia,FDP,43,w
+Hesse Jochen,SP,44,m
+Huber Harald,FDP,45,m
+Huber Sebastian,SVP,46,m
+Huber Urs,SVP,47,m
+Iseli Thomas,FDP,48,m
+Jacoma Martial,Die Mitte,49,m
+Jacomet Renato,SVP,50,m
+Kälin Florian,Die Mitte,51,m
+Kappeler Nicole,Die Mitte,52,w
+Karin Hug-Danecker,EVP,53,w
+Katharina Willimann,SP,54,w
+Keith Wyss,SVP,55,m
+Koller Marin,SVP,56,m
+Kuhn Markus,Grüne,57,m
+Künzler Urs,SVP,58,m
+Leu Patrick,Die Mitte,59,m
+Liedtke Wolfgang,SP,60,m
+Luck Andreas,SVP,61,m
+Mäder Gabriel,GLP,62,m
+Marietta Werder,FDP,63,w
+Mario F. Salomon,SVP,64,m
+Marion Hans,FW,65,w
+Martin Rüttimann,Die Mitte,66,m
+Marty Fässler Carmen,SP,67,w
+Meier Karl,SP,68,m
+Meier Theo,EVP,69,m
+Melliger Heinz,FW,70,m
+Muthuthamby Kannathasan,SP,71,m
+Neukom Roger,FDP,72,m
+Nyffeler Hans-Peter,SVP,73,m
+Oswald Marianne,Grüne,74,w
+Patrick Sager,FDP,75,m
+Peter Bühler,SP,76,m
+Peter Werder,FDP,77,m
+Renata Vasella Billeter,SP,78,w
+Riesen Bernd,SVP,79,m
+Riesen Gabriel,SVP,80,m
+Rindlisbacher Hans,SVP,81,m
+Rita Schmid Göldi,SP,82,w
+Rossi Franco,SVP,83,m
+Röthlisberger Ulrich,SVP,84,m
+Ruckstuhl Clemens,Die Mitte,85,m
+Schanz Simon,Die Mitte,86,m
+Schneider Daniel,Grüne,87,m
+Schoch Jacqueline,Grüne,88,w
+Schütz Kurt,EVP,89,m
+Schweizer Rolf,FDP,90,m
+Senn Mario,FDP,91,m
+Simon Jacoby,SP,92,m
+Simon Markus,FW,93,m
+Simon Pfenninger,Die Mitte,94,m
+Simone Huber,FDP,95,w
+Stefan Neubert,GLP,96,m
+Stenz Max,FW,97,m
+Stutz Patrick,SVP,98,m
+Susy Senn-Fleischmann,FDP,99,w
+Sütterlin Christoph,Die Mitte,100,m
+Titus Christian,SVP,101,m
+Ueli Gräflein,Grüne,102,m
+Ursula Rütimann,SP,103,w
+Wälle Robert,FDP,104,m
+Walter Uebersax,Die Mitte,105,m
+Weber Martin,SVP,106,m
+Welti Pascal,Grüne,107,m
+Weyermann Urs,SVP,108,m
+Winter Stefan,FW,109,m
+Yannick Wettstein,FDP,110,m
+Yilmaz Esen,SP,111,m
+Zeroual Farid,Die Mitte,112,m
