@@ -1,4 +1,4 @@
-# Wer dominiert in den Stadtparlamenten von Wädenswil und Adliswil?
+# Wer dominiert in den Stadtparlamenten von Wädenswil und Adliswil? (Die Bürgerlichen dominieren das Stadtparlament von Adliswil)
 Analyse von über 700 Vorstössen aus den beiden Stadtparlamenten zwischen dem 1. Januar 2006 und dem 31. Dezember 2023.
 
 ## 1. Ausgangsthesen
@@ -8,10 +8,10 @@ Die lokalen Parlamente bestimmen zu weiten Teilen, was vor den Haustüren der Le
 These: In Wädenswil sind es die rechten, in Adliswil die linken Parteien. Folgefrage: Entspricht die Anzahl Vorstösse auch den Wähleranteilen?
 
 **2. Welches sind die erfolgerichsten Parteien und wessen Vorstösse werden am meisten abgelehnt?**
-These: In Adliswil scheitert die SVP und in Wädenswil die SP am meisten.
+These: In Adliswil scheitert die SP und in Wädenswil die SVP am meisten. Folgefrage: Wie sind die politischen Mehrheiten im Parlament verteilt?
 
 **3. Welches waren die fleissigsten Parlamentarier/innen?**
-These: Es gibt einzelne Politiker*innen, die besonders viele Vorstösse eingereicht haben, andere gar keine. Folgefrage: Haben die "fleissigen" auch Erfolg mit ihren Vorstössen oder beschäftigen sie nur die Behörden?
+These: Es gibt einzelne Politiker/innen, die besonders viele Vorstösse eingereicht haben, andere gar keine. Folgefrage: Haben die "fleissigen" auch Erfolg mit ihren Vorstössen oder beschäftigen sie nur die Behörden?
 
 **4. Wie viele Vorstösse stammen von Männern und wie viele von Frauen?**
 These: Die Männer dominieren. Folgefragen: Bei welchen Parteien drängen sich die Männer in den Vordergrund?
@@ -67,17 +67,8 @@ Eine übersichtlichere Darstellung als auf der Webseite mit allen Vorstössen de
 - 25. Janaur: Readme geschrieben (2h)
 - 28. Januar: csv-File mit Parlamentariern bereinigt und eingelesen. Dataframes für Auswertung vorbereitet und ausgewertet, welche Partei wie viele Vorstösse eingereicht hat. (6h)
 - 29. Januar: Weitere Auswertungen zu Parteien gemacht, Parteistärke berechnet, Geschlechterquote ausgewertet und diverse Grafiken erstellt. (5h)
-- 30. Januar: 
+- 30. Januar: Weitere Auswertungen zu Erfolg und Misserfolg der Parteien (4h)
 
-
-**Todo:**
-Auswertungen und Grafiken Adliswil (bis Di)
-Auswertungen und Grafiken Wädenswil (bis Sa)
-Daten bereinigen Adliswil (bis Di)
-Daten bereinigen Wädenswil (bis So)
-Interviews führen (bis Mi i1W)
-Geschichte schreiben (bis Fr i1W)
-Dokumentation finalisieren (bis Sa i1W)
 
 **Aufwand in Stunden:**
 Thema suchen: Alles in allem ein paar Tage
