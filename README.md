@@ -69,7 +69,8 @@ Eine übersichtlichere Darstellung als auf der Webseite mit allen Vorstössen de
 - 29. Januar: Weitere Auswertungen zu Parteien gemacht, Parteistärke berechnet, Geschlechterquote ausgewertet und diverse Grafiken erstellt. (5h)
 - 30. Januar: Weitere Auswertungen zu Erfolg und Misserfolg der Parteien (4h)
 - 3. Februar: Auswertungen Adliswil abgeschlossen und Auswertungen Wädenswil sowie Datensätze für Wädenswiler Parlamentarier und Parteistärken erstellt. (3h)
-- 4. Februar: Auswertungen für Wädenswil adaptiert (2h)
+- 4. Februar: Auswertungen für Wädenswil adaptiert (2h) / Fazite aus den einzelnen Analysen gezogen und Besonderheiten für die Geschichte(n) gesucht. (1h)
+
 
 
 
