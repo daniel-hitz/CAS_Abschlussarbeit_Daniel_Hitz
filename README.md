@@ -68,6 +68,8 @@ Eine übersichtlichere Darstellung als auf der Webseite mit allen Vorstössen de
 - 28. Januar: csv-File mit Parlamentariern bereinigt und eingelesen. Dataframes für Auswertung vorbereitet und ausgewertet, welche Partei wie viele Vorstösse eingereicht hat. (6h)
 - 29. Januar: Weitere Auswertungen zu Parteien gemacht, Parteistärke berechnet, Geschlechterquote ausgewertet und diverse Grafiken erstellt. (5h)
 - 30. Januar: Weitere Auswertungen zu Erfolg und Misserfolg der Parteien (4h)
+- 3. Februar: Auswertungen Adliswil abgeschlossen und Auswertungen Wädenswil sowie Datensätze für Wädenswiler Parlamentarier und Parteistärken erstellt. (3h)
+
 
 
 **Aufwand in Stunden:**
