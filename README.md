@@ -46,32 +46,32 @@ Im Gespräch mit Roger Kempf, Leiter Parlamentsdienste in Wädenswil, wurde klar
 Eine übersichtlichere Darstellung als auf der Webseite mit allen Vorstössen der vergangenen Jahren habe auch die Stadt Wädenswil nicht. Es gebe höchstens die Geschäftsberichte des Stadtrats, in denen die einzelnen Vorstösse aus dem Paralment erwähnt würden. Diese reichen aber nur bis 2016 zurück. Alles davor müsste im Stadtarchiv angesehen werden. In Wädenswil ist die Situation zudem ein wenig anders als in Adliswil. Hier werden Vorstösse eher selten von einzelnen Personen eingereicht, sondern meistens von ganzen Fraktionen oder Kommissionen. (Anm.: Eine Auswertung nach einzelnen Parlamentsmitgliedern ist zwar möglich, das System im Wädenswiler Parlament muss aber transparent gemacht werden). Auch hier werde ich eine Liste mit allen Parlamentsmitgliedern der letzten 5 Legislaturen samt Partei erhalten.
 
 ## 6. Aufwandslogbuch
-Sept. 23  bis Dez. 23: CAS-Kurse
-Nov.23 bis Dez.23: Über Themen gebrainstormt
-11./12. Dezember: Erste Arbeit über Verwaltungs- und Bildungskosten angefangen - und wegen fehlender Vergleichbarkeit verworfen
-12.-26.Dezember: Weiter nach Themen gesucht
-27. Dezember: Webseiten der Stadtparlamente von Wädenswil und Adliswil studiert. (2h)
-28. Dezember: Fragen und Thesen ausgearbeitet und mir überlegt, wie ich damit eine relevante Geschichte erzählen könnte (2h)
-29. Dezember: Mit Stichproben die Vollständigkeit und Genauigkeit der Daten auf den Webseiten geprüft. (2h)
-29 bis 31. Dezember: Code zur Beschaffung der Daten geschrieben (6h)
-1. Januar: Code finalisiert und Programm laufen gelassen. Daten von den beiden Webseiten in rund 700 Files gesammelt (1h)
-3. Januar: Mit Beautifulsoup Daten aus den gesammelten Files gezogen und erste kurze Auswertungen vorgenommen (3h)
-3. Januar: Briefinggespräche mit Parlamentsleitern von Wädenswil und Adliswil(wegen Weihnachtsferien etwas spät) (1h)
-3. Januar: Mit Kollegen über Sinn des Projekts gesprochen (1h)
-4. Januar: Letzter Tag am MAZ - Daten geordnet und Tipps für weitere Schritte eingeholt (8h)
-8. Januar: Fragen und Thesen angepasst (1h)
-15. Januar: Daten kritisch hinterfragt - Grundsätzlich sind sie korrekt. Es gibt ein paar NaN Dateien zum bereinigen. (1h)
-16. Januar: Daten bereinigt (5h)
-24. Januar: Repository erstellt und alles ins Github transferiert (2h)
-25. Janaur: Readme geschrieben (2h)
-28. Januar: csv-File mit Parlamentariern bereinigt und eingelesen. Dataframes für Auswertung vorbereitet und ausgewertet, welche Partei wie viele Vorstösse eingereicht hat. (6h)
-29. Januar: Weitere Auswertungen zu Parteien gemacht, Parteistärke berechnet, Geschlechterquote ausgewertet und diverse Grafiken erstellt. (5h)
-30. Januar: Weitere Auswertungen zu Erfolg und Misserfolg der Parteien (4h)
-3. Februar: Auswertungen Adliswil abgeschlossen und Auswertungen Wädenswil sowie Datensätze für Wädenswiler Parlamentarier und Parteistärken erstellt. (3h)
-4. Februar: Auswertungen für Wädenswil adaptiert (2h) / Fazite aus den einzelnen Analysen gezogen und Besonderheiten für die Geschichte(n) gesucht. (1h)
-8. Februar: Titel, Lead und Storyline für Geschichte Adliswil geschrieben (3h)
-9. Feburar: Titel, Lead und Storyline für Geschichte Wädenswil geschrieben (1h)
-10. Februar: Letzte Kontrolle vor der Abgabe (1h)
+- Sept. 23  bis Dez. 23: CAS-Kurse
+- Nov.23 bis Dez.23: Über Themen gebrainstormt
+- 11./12. Dezember: Erste Arbeit über Verwaltungs- und Bildungskosten angefangen - und wegen fehlender Vergleichbarkeit verworfen
+- 12.-26.Dezember: Weiter nach Themen gesucht
+- 27. Dezember: Webseiten der Stadtparlamente von Wädenswil und Adliswil studiert. (2h)
+- 28. Dezember: Fragen und Thesen ausgearbeitet und mir überlegt, wie ich damit eine relevante Geschichte erzählen könnte (2h)
+- 29. Dezember: Mit Stichproben die Vollständigkeit und Genauigkeit der Daten auf den Webseiten geprüft. (2h)
+- 29 bis 31. Dezember: Code zur Beschaffung der Daten geschrieben (6h)
+- 1. Januar: Code finalisiert und Programm laufen gelassen. Daten von den beiden Webseiten in rund 700 Files gesammelt (1h)
+- 3. Januar: Mit Beautifulsoup Daten aus den gesammelten Files gezogen und erste kurze Auswertungen vorgenommen (3h)
+- 3. Januar: Briefinggespräche mit Parlamentsleitern von Wädenswil und Adliswil(wegen Weihnachtsferien etwas spät) (1h)
+- 3. Januar: Mit Kollegen über Sinn des Projekts gesprochen (1h)
+- 4. Januar: Letzter Tag am MAZ - Daten geordnet und Tipps für weitere Schritte eingeholt (8h)
+- 8. Januar: Fragen und Thesen angepasst (1h)
+- 15. Januar: Daten kritisch hinterfragt - Grundsätzlich sind sie korrekt. Es gibt ein paar NaN Dateien zum bereinigen. (1h)
+- 16. Januar: Daten bereinigt (5h)
+- 24. Januar: Repository erstellt und alles ins Github transferiert (2h)
+- 25. Januar: Readme geschrieben (2h)
+- 28. Januar: csv-File mit Parlamentariern bereinigt und eingelesen. Dataframes für Auswertung vorbereitet und ausgewertet, welche Partei wie viele Vorstösse eingereicht hat. (6h)
+- 29. Januar: Weitere Auswertungen zu Parteien gemacht, Parteistärke berechnet, Geschlechterquote ausgewertet und diverse Grafiken erstellt. (5h)
+- 30. Januar: Weitere Auswertungen zu Erfolg und Misserfolg der Parteien (4h)
+- 3. Februar: Auswertungen Adliswil abgeschlossen und Auswertungen Wädenswil sowie Datensätze für Wädenswiler Parlamentarier und Parteistärken erstellt. (3h)
+- 4. Februar: Auswertungen für Wädenswil adaptiert (2h) / Fazite aus den einzelnen Analysen gezogen und Besonderheiten für die Geschichte(n) gesucht. (1h)
+- 8. Februar: Titel, Lead und Storyline für Geschichte Adliswil geschrieben (3h)
+- 9. Feburar: Titel, Lead und Storyline für Geschichte Wädenswil geschrieben (1h)
+- 10. Februar: Letzte Kontrolle vor der Abgabe (1h)
 
 
 **Aufwand in Stunden:**
