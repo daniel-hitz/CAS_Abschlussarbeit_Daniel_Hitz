@@ -51,14 +51,14 @@ Im Gespräch mit Roger Kempf, Leiter Parlamentsdienste in Wädenswil, wurde klar
 Eine übersichtlichere Darstellung als auf der Webseite habe auch die Stadt Wädenswil nicht. Es gebe höchstens die Geschäftsberichte des Stadtrats, in denen die einzelnen Vorstösse aus dem Paralment erwähnt würden. Diese reichen aber nur bis 2016 zurück. Alles davor müsste im Stadtarchiv angesehen werden. In Wädenswil ist die Situation zudem ein wenig anders als in Adliswil. Hier werden Vorstösse eher selten von einzelnen Personen eingereicht, sondern meistens von ganzen Fraktionen oder Kommissionen. Auch hier werde ich eine Liste mit allen Parlamentsmitgliedern der letzten 5 Legislaturen samt Partei erhalten.
 
 ## 6. Aufwandslogbuch
-- Sept. 23  bis Dez. 23: CAS-Kurse
-- Nov.23 bis Dez.23: Über Themen gebrainstormt
-- 11./12. Dezember: Erste Arbeit über Verwaltungs- und Bildungskosten angefangen - und wegen fehlender Vergleichbarkeit verworfen
-- 12.-26.Dezember: Weiter nach Themen gesucht
-- 27. Dezember: Webseiten der Stadtparlamente von Wädenswil und Adliswil studiert. (2h)
-- 28. Dezember: Fragen und Thesen ausgearbeitet und mir überlegt, wie ich damit eine relevante Geschichte erzählen könnte (2h)
-- 29. Dezember: Mit Stichproben die Vollständigkeit und Genauigkeit der Daten auf den Webseiten geprüft. (2h)
-- 29 bis 31. Dezember: Code zur Beschaffung der Daten geschrieben (6h)
+- 23.09  bis 23.12: CAS-Kurse
+- 23.11 bis 23.12: Über Themen gebrainstormt
+- 11./12..12: Erste Arbeit über Verwaltungs- und Bildungskosten angefangen - und wegen fehlender Vergleichbarkeit verworfen
+- 12.-26.12.: Weiter nach Themen gesucht
+- 27.12.: Webseiten der Stadtparlamente von Wädenswil und Adliswil studiert. (2h)
+- 28.12.: Fragen und Thesen ausgearbeitet und mir überlegt, wie ich damit eine relevante Geschichte erzählen könnte (2h)
+- 29.12.: Mit Stichproben die Vollständigkeit und Genauigkeit der Daten auf den Webseiten geprüft. (2h)
+- 29.12 bis 31.12.: Code zur Beschaffung der Daten geschrieben (6h)
 - 1.1.: Code finalisiert und Programm laufen gelassen. Daten von den beiden Webseiten in rund 700 Files gesammelt (1h)
 - 3.1.: Mit Beautifulsoup Daten aus den gesammelten Files gezogen und erste kurze Auswertungen vorgenommen (3h)
 - 3.1.: Briefinggespräche mit Parlamentsleitern von Wädenswil und Adliswil geführt(wegen Weihnachtsferien etwas spät) (1h)
